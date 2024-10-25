@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/generateWordCloud/static/css/main.0f051d64.css",
+    "main.js": "/generateWordCloud/static/js/main.4ca190a2.js",
+    "static/js/453.159b7b6a.chunk.js": "/generateWordCloud/static/js/453.159b7b6a.chunk.js",
+    "index.html": "/generateWordCloud/index.html",
+    "main.0f051d64.css.map": "/generateWordCloud/static/css/main.0f051d64.css.map",
+    "main.4ca190a2.js.map": "/generateWordCloud/static/js/main.4ca190a2.js.map",
+    "453.159b7b6a.chunk.js.map": "/generateWordCloud/static/js/453.159b7b6a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0f051d64.css",
+    "static/js/main.4ca190a2.js"
+  ]
+}
